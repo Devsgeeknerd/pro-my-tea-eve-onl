@@ -1,5 +1,6 @@
 {
   "CompilerOptions": {
+    "target": "es5",
     "strict": true
   }
 }
