@@ -1,3 +1,5 @@
 {
-  "strict": true
+  "CompilerOptions": {
+    "strict": true
+  }
 }
