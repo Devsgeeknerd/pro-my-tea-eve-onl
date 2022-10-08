@@ -2,6 +2,8 @@
   "name": "frontend",
   "version": "0.0.1",
   "private": true,
-  "script": {},
+  "script": {
+    "dev": "next dev"
+  },
   "dependencies": {}
 }
