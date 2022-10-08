@@ -12,6 +12,7 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolateModules": true,
-    "jsx": "preserve"
+    "jsx": "preserve",
+    "incremental": true
   }
 }
