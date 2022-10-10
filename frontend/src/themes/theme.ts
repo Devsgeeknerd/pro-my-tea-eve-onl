@@ -8,7 +8,9 @@ const theme = createTheme({
     secondary: {
       main: "#f5f5f5",
     },
-    text: {},
+    text: {
+      primary: "#f52273",
+    },
   },
   shape: {},
   components: {},
