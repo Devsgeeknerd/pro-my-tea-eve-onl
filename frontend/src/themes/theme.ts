@@ -6,3 +6,5 @@ const theme = createTheme({
   components: {},
   MuiTextField: {},
 });
+
+export default theme;
